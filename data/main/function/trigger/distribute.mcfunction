@@ -1,0 +1,1 @@
+execute if score @s Trigger matches 1..13 run function main:trigger/1_13

@@ -1,0 +1,12 @@
+execute if score @s Trigger matches 1 run function game_setting:choose_team/red
+execute if score @s Trigger matches 2 run function game_setting:choose_team/orange
+execute if score @s Trigger matches 3 run function game_setting:choose_team/yellow
+execute if score @s Trigger matches 4 run function game_setting:choose_team/dark_green
+execute if score @s Trigger matches 5 run function game_setting:choose_team/aqua
+execute if score @s Trigger matches 6 run function game_setting:choose_team/blue
+execute if score @s Trigger matches 7 run function game_setting:choose_team/dark_blue
+execute if score @s Trigger matches 8 run function game_setting:choose_team/purple
+execute if score @s Trigger matches 9 run function game_setting:choose_team/light_purple
+execute if score @s Trigger matches 10 run function game_setting:choose_team/gray
+execute if score @s Trigger matches 11 run function game_setting:choose_team/single
+execute if score @s Trigger matches 12 run function game_setting:choose_team/spectator
