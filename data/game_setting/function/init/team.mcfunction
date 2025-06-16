@@ -9,6 +9,7 @@ team add purple {translate:"紫隊"}
 team add light_purple {translate:"粉隊"}
 team add gray {translate:"灰隊"}
 team add spectator {translate:"觀察者"}
+team add temp
 
 team modify red color red
 team modify orange color gold
@@ -20,4 +21,4 @@ team modify dark_blue color dark_blue
 team modify purple color dark_purple
 team modify light_purple color light_purple
 team modify gray color gray
-team modify spectator color black
+team modify spectator color dark_gray
